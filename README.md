@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+OLADEMOMI+DAVID;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
@@ -13,12 +13,12 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/STARTECH"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vafp8FHAjPXUEDepqw16"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/STARTECH"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vafp8FHAjPXUEDepqw16"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="wa.me/2347088974331"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-STAR MD BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+Omo_Ola's_X bugger is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. OMO_OLA 
 ### 1. STAR AND FORK THIS REPO
@@ -42,10 +42,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
 ## PLS FOLLOW MY WHATSAPP CHANNEL.
-* https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R
+* https://whatsapp.com/channel/0029Vafp8FHAjPXUEDepqw16
 
-## CONTACT DEVELOPERS ON WHATSAPP.
-* https://wa.me/qr/3JJ3ARNLX5RHM1
+## CONTACT DEVELOPER ON TELEGRAM
+* t.me/Omo_ola13
 
 
 ### DEPLOYMENT ON TERMUX
@@ -56,11 +56,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 
 
-cd Omo_Ola's_X bugger
 
-yarn install
+
+
    
-npm start
 
 
 If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
@@ -122,7 +121,7 @@ Contributions to Omo_Ola's_X bugger are welcome! If you have ideas for new featu
    **OLADEMOMI  For developing it; <br>
 
 
-## Licens
+## License
 
 The WhatsApp Bot STAR MD BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
